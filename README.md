@@ -29,11 +29,11 @@ MySQL Database: Used for robust data storage and retrieval.
 
 Once the application is running, you'll see a main menu:
 
-`--- WELCOME TO HOSTEL MANAGEMENT ---
+--- WELCOME TO HOSTEL MANAGEMENT ---
 1. ADMISSION FORM
 2. FEE CHECKING
 3. MODIFY/VIEW STUDENT DATA
-4. EXIT`
+4. EXIT
    
 ENTER YOUR CHOICE:
 
